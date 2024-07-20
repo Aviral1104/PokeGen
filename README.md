@@ -1,1 +1,2 @@
 # PokeGen
+Here, I implemented a Generative Adversarial Network (GAN) using TensorFlow and Keras to generate high-quality images, specifically targeting a dataset of Pokémon images. The GAN architecture consists of two neural networks: a generator that creates synthetic images and a discriminator that evaluates their authenticity. The training process involves these networks competing against each other, leading to the generation of increasingly realistic images.
